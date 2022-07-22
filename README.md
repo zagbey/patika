@@ -1,4 +1,4 @@
-# patika
+# patika [https://app.patika.dev/]
 Veri tabanları ve algoritma çözümleri
 ---
 # 1.Insertion Sort çözümü
